@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "arsh",
+    "DB_PASSWORD": "L6XT2xwLhhmwXwnV",
+    "DB_NAME": "500words",
+    "JWT_KEY": "KeySecretCouldWriteAnything_here"
+  }
+}
